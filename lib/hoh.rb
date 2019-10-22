@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
 #Kingdom = {Phylum = {}, Class = {}, Order = {}, Family = {}, Genus = {}, #Species = {}}
 {label: "Kingdom",
-sub_category:
+sub_category: "Phylum"
 }
 end
 
